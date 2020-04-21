@@ -1,4 +1,4 @@
-##Types of mock:
+## Types of mock:
 - Stub: return unimportant values (Null, Zero, False), but we can see how it work (How it called, how it was used).
 - Mock : Can be a convincing imitation of the real service , it can be configured to interact with your code (More complex implementation = More Troubles).
 - Fake : __Not Real__ implementation of something like Faking the Memory Database.

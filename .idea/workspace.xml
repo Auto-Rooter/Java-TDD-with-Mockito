@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd889c7-4334-4936-a9a8-d32139291583" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/client/EntertainmentChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/client/OtherChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/client/SportChannel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sender/ArticleDistributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sender/ArticleDistributor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/sender/ArticleDistributorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/sender/ArticleDistributorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/sender/ArticleDistributorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/sender/ArticleDistributorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +96,7 @@
       <updated>1587216849226</updated>
       <workItem from="1587216853826" duration="3443000" />
       <workItem from="1587230499564" duration="446000" />
-      <workItem from="1587478319269" duration="7842000" />
+      <workItem from="1587478319269" duration="8001000" />
     </task>
     <servers />
   </component>
