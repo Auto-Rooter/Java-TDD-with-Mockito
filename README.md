@@ -1,8 +1,8 @@
 ## Types of mock:
-- Stub: return unimportant values (Null, Zero, False), but we can see how it work (How it called, how it was used).
-- Mock : Can be a convincing imitation of the real service , it can be configured to interact with your code (More complex implementation = More Troubles).
-- Fake : __Not Real__ implementation of something like Faking the Memory Database.
-- Spy : Here it a Little bit different , You take a __Real__ object that does it`s job perfectly fine but wrap it with fake behavior (half way between the Mock and Real Object).
+- __Stub__: return unimportant values (Null, Zero, False), but we can see how it work (How it called, how it was used).
+- __Mock__ : Can be a convincing imitation of the real service , it can be configured to interact with your code (More complex implementation = More Troubles).
+- __Fake__ : *Not Real* implementation of something like Faking the Memory Database.
+- __Spy__ : Here it a Little bit different , You take a __Real__ object that does it`s job perfectly fine but wrap it with fake behavior (half way between the Mock and Real Object).
 
 
 ## Mock is Fast and Portable:
