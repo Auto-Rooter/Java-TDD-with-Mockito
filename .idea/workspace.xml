@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd889c7-4334-4936-a9a8-d32139291583" name="Default Changelist" comment="" />
+    <list default="true" id="5bd889c7-4334-4936-a9a8-d32139291583" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/client/EntertainmentChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/client/OtherChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/client/SportChannel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sender/ArticleDistributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sender/ArticleDistributor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/sender/ArticleDistributorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/sender/ArticleDistributorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/sender/ArticleDistributorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/sender/ArticleDistributorTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +20,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aiSJPtva845b4vR5vO61j0TUTt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -38,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArticleDistributorTest">
+  <component name="RunManager" selected="JUnit.ArticleDistributorTest.sportGoesToSportPoliticsToOther">
     <configuration name="ArticleDistributorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hu.co.hadi" />
       <extension name="coverage">
@@ -72,8 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArticleDistributorTest" />
         <item itemvalue="JUnit.ArticleDistributorTest.sportGoesToSportPoliticsToOther" />
+        <item itemvalue="JUnit.ArticleDistributorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +104,7 @@
       <updated>1587216849226</updated>
       <workItem from="1587216853826" duration="3443000" />
       <workItem from="1587230499564" duration="446000" />
-      <workItem from="1587478319269" duration="3579000" />
+      <workItem from="1587478319269" duration="7842000" />
     </task>
     <servers />
   </component>
@@ -101,22 +116,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="765" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587483788780" />
-    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1587485195355">
+    <state width="1237" height="298" key="GridCell.Tab.0.bottom" timestamp="1587490321751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587485195355" />
-    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1587485195355">
+    <state width="1237" height="298" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587490321751" />
+    <state width="1237" height="298" key="GridCell.Tab.0.center" timestamp="1587490321751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587485195355" />
-    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1587485195354">
+    <state width="1237" height="298" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587490321751" />
+    <state width="1237" height="298" key="GridCell.Tab.0.left" timestamp="1587490321751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587485195354" />
-    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1587485195355">
+    <state width="1237" height="298" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587490321751" />
+    <state width="1237" height="298" key="GridCell.Tab.0.right" timestamp="1587490321751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587485195355" />
+    <state width="1237" height="298" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587490321751" />
     <state x="342" y="0" key="Maven.ArtifactSearchDialog" timestamp="1587480331086">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
